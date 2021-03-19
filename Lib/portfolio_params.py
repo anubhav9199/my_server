@@ -28,7 +28,15 @@ intro_map = {
             'main': [{'text': u'Hi, I\'m Anubhav'}],
             'otherText': [{'text': u''}]
         }
+    ],
+    # ''
+}
+
+about_me_map = {
+    'details': [
+        {
+            'data': ''
+        }
     ]
 }
-about_me_map = {}
 work_map ={}
